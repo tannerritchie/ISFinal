@@ -1,0 +1,80 @@
+.body {
+background-color: rgb(191, 191, 246);
+font-family: 'Courier New', Courier, monospace;
+}
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 80px;
+    border-bottom: solid 2px rgb(220, 152, 96);
+    border-left: solid 2px rgb(220, 152, 96);
+    border-right: solid 2px rgb(220, 152, 96);
+    border-top: solid 2px rgb(220, 152, 96);
+}
+
+.body {
+    top: 92px;
+    left: 5px;
+    right: 5px;
+    bottom: 92px;
+    border-bottom: solid 2px rgb(220, 152, 96);
+    border-left: solid 2px rgb(220, 152, 96);
+    border-right: solid 2px rgb(220, 152, 96);
+    border-top: solid 2px rgb(220, 152, 96);
+}
+
+.footer {
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 80px;
+    border-bottom: solid 2px rgb(220, 152, 96);
+    border-left: solid 2px rgb(220, 152, 96);
+    border-right: solid 2px rgb(220, 152, 96);
+    border-top: solid 2px rgb(220, 152, 96);
+}
+
+.headertext {
+    float: right;
+    padding-right: 10px;
+}
+
+.headertitle {
+    float: left;
+    padding-left: 30px;
+    padding-top: 2px;
+}
+
+.bodytitles{
+    text-align: center;
+    font-size: x-large;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+.bodysubtext{
+    text-align: center;
+    font-size: medium;
+    font-weight: 100;
+}
+
+.backtotop{
+    font-size: small;
+    font-weight: 100;
+    text-align: center;
+}
+
+.footertext{
+    text-align:center;
+    font-size: x-small;
+    font-weight: 200;
+    padding-top: 20px;
+}
+
+.tableaulink {
+    padding-top: 2px;
+    font-size: small;
+    text-align: center;
+}
