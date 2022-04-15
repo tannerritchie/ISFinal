@@ -1,0 +1,43 @@
+.resumebody {
+    font-size: small;
+    font-style: normal;
+    font-weight: lighter;
+}
+
+.resumetitles {
+    display: block;
+  font-size: 5rem;
+  font-weight: 150;
+  font-style: bold;
+  text-transform: uppercase;
+  text-decoration: underline;
+}
+
+.footertext {
+    font-size: x-small;
+    text-decoration: rgb(233, 209, 164);
+}
+
+.aboutmetitles {
+    display: block;
+  font-size: 3rem;
+  font-weight: 100;
+  text-transform: uppercase;
+}
+
+.contactmetitles {
+    display: block;
+    font-size: 1rem;
+    font-weight: 800;
+}
+
+.contactmebody {
+    display: block;
+    font-size: 2rem;
+    font-weight: 100;
+}
+
+.contactimg {
+    border-image: round blue solid 1px;
+
+}
